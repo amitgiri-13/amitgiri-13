@@ -1,6 +1,6 @@
 ![amitgiribanner](https://github.com/amitgiri-13/amitgiri-13/assets/105470402/d1df2972-3cdd-407c-960a-a20591355382)
 <h1 align="center">print("Wonderful to see you here.")</h1>
-<h3 align="center">echo "passionate to dive deep into programming and rise on the surface with treasure of understanding, how it works?"</h3>
+<h3 align="center">echo "passionate to dive deep into programming and rise on the surface with treasure of understanding, how everything works?"</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.webp">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitgiri-13&label=Profile%20views&color=0e75b6&style=flat" alt="amitgiri-13" /> </p>
 
