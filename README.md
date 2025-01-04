@@ -1,4 +1,5 @@
-![amitgiribanner](https://github.com/amitgiri-13/amitgiri-13/assets/105470402/d1df2972-3cdd-407c-960a-a20591355382)
+![image](https://github.com/user-attachments/assets/8f8d255f-308c-42b2-85d7-41e108222dd4)
+
 <h1 align="center">Hi!</h1>
 <h3 align="center" style="font-family: 'Courier New', Courier, monospace;">python main.py 2> /dev/null</h3>
 
@@ -12,13 +13,7 @@
   <a href="https://www.linkedin.com/in/amit-giri-86b436282" target="_blank" rel="noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
   </a>
-  <a href="https://www.facebook.com/profile.php?id=100049053195602" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40"/>
-  </a>
-  <a href="https://www.instagram.com/amitgiri____/" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/>
-  </a>
-  <a href="https://www.youtube.com/@amitgiri_" target="_blank" rel="noreferrer">
+  <a href="https://www.youtube.com/@just_sudo_it" target="_blank" rel="noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40"/>
   </a>
 </p>
@@ -33,9 +28,6 @@
   </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
