@@ -3,8 +3,7 @@
 <h1 align="center">Hi!</h1>
 <h3 align="center" style="font-family: 'Courier New', Courier, monospace;">python main.py 2> /dev/null</h3>
 
-
-- I’m exploring **Python and Linux** 
+- Website **<a href="https://giriamit.com.np" target="_blank" rel="noreferrer">giriamit.com.np</a>**
 
 - How to reach me **amit101giri@gmail.com**
 
@@ -32,7 +31,20 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="shell scripting" width="40" height="40"/>
+  </a>
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitgiri-13&show_icons=true&locale=en&layout=compact" alt="amitgiri-13" /></p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amitgiri-13&show_icons=true&locale=en&layout=compact" alt="amitgiri-13" />
+</p>
+
+<h3 align="left">Languages I Use</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/Shell%20Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Scripting" />
+</p>
+
